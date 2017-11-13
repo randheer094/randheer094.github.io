@@ -1,7 +1,7 @@
 
 
-## Randheer Kumar Singh
-### randheer094@gmail.com
+### Randheer Kumar Singh
+#### randheer094@gmail.com
 
 
 ## Welcome to GitHub Pages
