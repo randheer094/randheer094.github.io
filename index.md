@@ -7,7 +7,7 @@ _Android | Java | Kotlin | Data Structure | Algorithm_
 #### About Me
 > I am Randheer, a computer science graduate with more then 4 year of experience in Android Application Development using Java and Kotlin.
 
-#### Technology
+#### Tools & Technology
 - Programming Languages
   - Java
   - Kotlin
