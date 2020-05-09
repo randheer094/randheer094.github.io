@@ -5,13 +5,14 @@ _Android | Java | Kotlin | Data Structure | Algorithm_
 * * *
 
 #### About Me
-> I am Randheer, a computer science graduate with more then 4 year of experience in Android Application Development using Java and Kotlin.
+> Computer science graduate with more then 5 year of experience in Android Application Development using Java, Kotlin and React Native.
 
 #### Tools & Technology
 - Programming Languages
   - Java
   - Kotlin
   - Python
+  - JavaScript (Basic)
 - IDE's
   - Android Studio
   - Eclipse
@@ -26,6 +27,7 @@ _Android | Java | Kotlin | Data Structure | Algorithm_
   - [LinkedIn](https://www.linkedin.com/in/randheer094/)
   - [Stackoverflow](https://stackoverflow.com/users/3524134/d4h)
   - [HackerRank](https://www.hackerrank.com/randheer094)
+  - [LeetCode] (https://leetcode.com/randheer094)
   - [Twitter](https://twitter.com/randheer094)
   
 #### Contact
