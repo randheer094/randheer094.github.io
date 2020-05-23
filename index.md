@@ -1,27 +1,40 @@
 
 
 ### Randheer Kumar Singh 
-_Android | Java | Kotlin | Data Structure | Algorithm_
+_Android ∙ Java ∙ Kotlin ∙ React Native ∙ Data Structure ∙ Algorithm_
 * * *
 
 #### About Me
-> Computer Science graduate with more then 5 year of experience in Android Application Development using Java, Kotlin and React Native.
+> Software Engineer with more than 5 years of experience in Android Application Development using Java, Kotlin, and React Native. Developed more than 15 awesome Android Applications, most of them are live on the Play Store.
+>
+> Developed projects from multiple domains including Business & Accounting, E-commerce, Social, Healthcare, Publication & Utilities. Experience of working for both Product and Client based companies.
 
-#### Tools & Technology
-- Programming Languages
-  - Java
-  - Kotlin
-  - Python
-  - JavaScript (Basic)
-- IDE's
-  - Android Studio
-  - Eclipse
-- Third Party
-  - Google Api's (Including Firebase and Fabric)
-  - Retrofit
-  - RxJava
-  - Mapbox
-  - SpectrumWorx 
+#### Skills
+- Programming Languages:
+  > Java, Kotlin, JavaScript(Basic), Python(Basic).
+
+- Frameworks:
+  > Android, React Native, Kotlin Native/MPP, React JS(Basic), iOS(Basic)
+
+- Databases:
+  > SQLite, MySQL, Room, Realm, SQLDelight
+
+- Architectural Pattern & DI:
+  > MVP, MVVM, Clean, Dagger2, Koin
+
+- Third-Party Tools:
+  > Retrofit, Glide, Firebase, Google Map, Fresco, Social Auth &
+AWS Cognito, RxJava, RxAndroid
+
+- Unit, Instrumentation & UI Testing:
+  > JUnit, Espresso, Mockito, Robolectric, UI Automator
+
+- CI/CD:
+  > Jenkins, Sonatype Nexus Repository
+
+- Other:
+  > Image/Video Processing, FFmpeg, BLE, REST
+API/GraphQL
   
 #### Publication
   - [Real Time Auto Controllable Traffic Management System](https://www.krishisanskriti.org/vol_image/03Jul201510073021.pdf):
