@@ -11,13 +11,13 @@ _Android ∙ Java ∙ Kotlin ∙ React Native ∙ Data Structure ∙ Algorithm_
 
 #### Skills
 - Programming Languages:
-  > Java, Kotlin, JavaScript(Basic), Python(Basic).
+  > Java, Kotlin, JavaScript, Golang.
 
 - Frameworks:
   > Android, React Native, Kotlin Native/MPP, React JS(Basic), iOS(Basic)
 
 - Databases:
-  > SQLite, MySQL, Room, Realm, SQLDelight
+  > SQLite, MySQL, Room, Realm, SQLDelight, PostgreSQL
 
 - Architectural Pattern & DI:
   > MVP, MVVM, Clean, Dagger2, Koin
@@ -27,7 +27,7 @@ _Android ∙ Java ∙ Kotlin ∙ React Native ∙ Data Structure ∙ Algorithm_
 AWS Cognito, RxJava, RxAndroid
 
 - Unit, Instrumentation & UI Testing:
-  > JUnit, Espresso, Mockito, Robolectric, UI Automator
+  > JUnit, Espresso, Mockito, Robolectric, UI Automator, Jest, Appium
 
 - CI/CD:
   > Jenkins, Sonatype Nexus Repository
@@ -43,12 +43,8 @@ API/GraphQL
   
 #### Social
   - [LinkedIn](https://www.linkedin.com/in/randheer094/)
-  - [Stackoverflow](https://stackoverflow.com/users/3524134/d4h)
-  - [HackerRank](https://www.hackerrank.com/randheer094)
-  - [LeetCode](https://leetcode.com/randheer094)
-  - [Twitter](https://twitter.com/randheer094)
   
 #### Contact
-  - [Email Me](mailto:randheer094@gmail.com)
+  - [Email Me](mailto:randheer094@gmail.com?subject=FromWebsiteContactEmailMe:)
 
 
