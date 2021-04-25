@@ -5,7 +5,9 @@ _Android ∙ Java ∙ Kotlin ∙ React Native_
 * * *
 
 #### About Me
-> Mobile Application Developer at Deskera, Singapore
+
+> Mobile Application Developer at Deskera, Singapore.
+> 
 > Software Engineer with ~6 years of experience in Android Application Development using Java, Kotlin, and React Native. Developed more than 15 awesome Android Applications, most of them are live on the Play Store.
 >
 > Developed projects from multiple domains including Business & Accounting, E-commerce, Social, Healthcare, Publication & Utilities. Experience of working for both Product and Client based companies.
