@@ -42,6 +42,6 @@ API/GraphQL
   Journal of Basic and Applied Engineering Research, Krishi Sanskriti publications.
     Print ISSN: 2350-0077; Online ISSN: 2350-0255; Volume 1, Number 8; October, 2014  pp. 78-82 
   
-#### Social
+#### Connect with Me
   - [LinkedIn](https://www.linkedin.com/in/randheer094/)
 
