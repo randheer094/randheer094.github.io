@@ -6,17 +6,17 @@ _Android ∙ Java ∙ Kotlin ∙ React Native_
 
 #### About Me
 
-> Android Engineer @ foodpanda(Delivery Hero APAC)
+> Android@[foodpanda](https://www.foodpanda.com/)(Delivery Hero APAC)
 > 
-> Software Engineer with experience in Android Application Development using Java, Kotlin, and React Native. 
+> Software Engineer with experience in building awesome Android Application using Kotlin, Java, and React Native.
 
 
 #### Skills
 - Programming Languages:
-  > Java, Kotlin.
+  > Java, Kotlin
 
 - Frameworks:
-  > Android, React Native, Kotlin Native/MPP
+  > Android, React Native
 
 - Databases:
   > SQLite, MySQL, Room, Realm, SQLDelight, PostgreSQL
