@@ -46,4 +46,5 @@ API/GraphQL
   
 #### Connect with Me
   - [LinkedIn](https://www.linkedin.com/in/randheer094/)
+  - [Twitter](https://twitter.com/randheer094)
 
