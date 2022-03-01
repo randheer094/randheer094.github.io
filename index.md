@@ -6,7 +6,7 @@ _Android ∙ Java ∙ Kotlin ∙ React Native_
 
 #### About Me
 
-> Android@[foodpanda](https://www.foodpanda.com/)(Delivery Hero APAC)
+> Android @ foodpanda
 > 
 > Software Engineer with experience in building awesome Android Application using Kotlin, Java, and React Native.
 
@@ -45,5 +45,4 @@ API/GraphQL
   
 #### Connect with Me
   - [LinkedIn](https://www.linkedin.com/in/randheer094/)
-  - [Twitter](https://twitter.com/randheer094)
 
