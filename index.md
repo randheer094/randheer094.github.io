@@ -1,14 +1,11 @@
 
 
 ### Randheer Kumar Singh 
-_Android ∙ Java ∙ Kotlin ∙ React Native_
+_Android Developer_
 * * *
 
 #### About Me
-
-> Android @ foodpanda
-> 
-> Software Engineer with experience in building awesome Android Application using Kotlin, Java, and React Native.
+I'm a software engineer, computer science graduate, and a life long student. I am passinate about writing scalable & maintanable code. I started my carrer as a software developer trainee at an early stage startup and I was amased by the impact a few lines of code can create on the world. Currently working at foodpanda Singapore as Android developer.
 
 
 #### Skills
