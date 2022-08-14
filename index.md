@@ -5,7 +5,7 @@ _Android Developer_
 * * *
 
 #### About Me
-I'm a software engineer, computer science graduate, and a life long student. I am passinate about writing scalable & maintanable code. I started my carrer as a software developer trainee at an early stage startup and I was amased by the impact a few lines of code can create on the world. Currently working at foodpanda Singapore as an android developer.
+I'm a software engineer, computer science graduate, and a life long student. I am passionate about writing scalable & maintanable code. I started my carrer as a software developer trainee at an early stage startup and I was amased by the impact a few lines of code can create on the world. Currently working at foodpanda Singapore as an android developer.
 
 
 #### Skills
