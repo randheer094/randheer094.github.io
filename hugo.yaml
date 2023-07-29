@@ -1,5 +1,4 @@
 baseURL: https://randheer094.dev/
-languageCode: en-us
 title: Randheer
 
 googleAnalytics: G-4107HTT6Y8
@@ -16,24 +15,18 @@ params:
   author: Me
   DateFormat: "January 2, 2006"
 
+  enableEmoji: true
+
   profileMode:
     enabled: true
+
     title: "Randheer Kumar Singh"
     subtitle: "Software Engineer (Android)"
+
+    imageWidth: 180
+    imageHeight: 180
     imageUrl: "https://avatars.githubusercontent.com/u/7108762"
-    imageTitle: "Randheer"
-    imageWidth: 120
-    imageHeight: 120
 
-
-    socialIcons:
-      - name: github
-        url: "https://github.com/randheer094"
-      - name: instagram
-        url: "https://instagram.com/randheer094"
-
-    ShowShareButtons: true
-    shareButtons: ["linkedin", "twitter"]
 
 outputs:
   home:
