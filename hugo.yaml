@@ -1,0 +1,9 @@
+baseURL: https://randheer094.dev/
+languageCode: en-us
+title: Randheer
+
+googleAnalytics: G-4107HTT6Y8
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
