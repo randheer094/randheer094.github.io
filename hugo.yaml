@@ -7,3 +7,36 @@ googleAnalytics: G-4107HTT6Y8
 module:
   imports:
     - path: github.com/adityatelange/hugo-PaperMod
+
+params:
+  defaultTheme: auto
+
+  env: production
+  title: Randheer
+  author: Me
+  DateFormat: "January 2, 2006"
+
+  profileMode:
+    enabled: true
+    title: "Randheer Kumar Singh"
+    subtitle: "Software Engineer (Android)"
+    imageUrl: "https://avatars.githubusercontent.com/u/7108762"
+    imageTitle: "Randheer"
+    imageWidth: 120
+    imageHeight: 120
+
+
+    socialIcons:
+      - name: github
+        url: "https://github.com/randheer094"
+      - name: instagram
+        url: "https://instagram.com/randheer094"
+
+    ShowShareButtons: true
+    shareButtons: ["linkedin", "twitter"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
