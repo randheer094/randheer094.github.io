@@ -20,8 +20,8 @@ params:
   profileMode:
     enabled: true
 
-    title: "Randheer Kumar Singh"
-    subtitle: "Software Engineer (Android)"
+    title: "Coming soon..."
+    subtitle: "🚧"
 
     imageWidth: 180
     imageHeight: 180
